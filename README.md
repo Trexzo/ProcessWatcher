@@ -119,4 +119,4 @@ Some protected or elevated processes may expose limited metadata unless ProcessW
 
 ## License
 
-No open-source license has been selected yet. Until a license is added, normal copyright rules apply to this repository.
+ProcessWatcher is released under the [MIT License](LICENSE).
